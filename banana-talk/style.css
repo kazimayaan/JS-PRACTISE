@@ -1,0 +1,28 @@
+body{
+    background-color: antiquewhite;
+}
+textarea{
+    width: 90%;
+    display: block;
+    margin: 1rem;
+    margin-left: auto;
+    margin-right: auto;
+}
+.h1{
+    display:flex;
+    justify-content: center;
+}
+#output{
+    width: 80%;
+    display: flex;
+    margin: 1rem;
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid black;
+    height: 30vh;
+    justify-content: center;
+    align-items: center;
+    background-color: aliceblue;
+
+}
+
